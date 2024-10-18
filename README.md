@@ -80,8 +80,7 @@ we love to play popular and country music for others and we do this for free.
     <h2>Get in Touch</h2>
     <div class="contact-info">
         <p>We’d love to hear from you! For inquiries about bookings or to learn more about us, feel free to reach out:</p>
-        <p><strong>Email:</strong> <a href="mailto:normnett@gmail.com">normnett@gmail.com</a></p>
-        <p><strong>Phone:</strong> 0459 546 449</p>
+        
     </div>
 </section>
 
