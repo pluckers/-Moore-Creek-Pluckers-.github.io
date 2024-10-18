@@ -9,8 +9,25 @@ we love to play popular and country music for others and we do this for free.
    <div style=”background-color: magenta;”>
 </head>
 <body>
+<center>
+        <h2 style="background-color: gray;">
+            Heading with Gray Background color
+        </h2>
 
+        <div style="border: 2px solid skyblue;">
+            Div with Skyblue Border color
+        </div>
+        <span >
+            <a href="#" style="color: #ff6347;">
+                Link has a tomato color
+            </a>
+        </span>
 
+        <p style="color: darkgreen;">
+            Paragraph with Dark Green Text color
+        </p>
+        
+    </center>
 <header>
     <h1>The Moore Creek Pluckers</h1>
     <p>Bringing you the best of 60s, 70s, 80s hits and Country music!</p>
