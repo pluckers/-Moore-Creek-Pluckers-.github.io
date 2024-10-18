@@ -6,7 +6,6 @@ we love to play popular and country music for others and we do this for free.
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Moore Creek Pluckers</title>
    
 </head>
 <body>
