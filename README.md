@@ -1,7 +1,7 @@
 # -Moore-Creek-Pluckers-.github.io
-We are a group of senior musicians who play our music for pleasure and mental health 
-we love to play popular and country music for others and we do this for free.
-<!DOCTYPE html>
+<h1>We are a group of senior musicians who play our music for pleasure and mental health 
+we love to play popular and country music for others and we do this for free.</h1>
+   <!DOCTYPE html>
 <html lang="en">
 <head>
    <meta charset="UTF-8">
