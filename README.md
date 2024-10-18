@@ -7,48 +7,7 @@ we love to play popular and country music for others and we do this for free.
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>The Moore Creek Pluckers</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f4;
-            color: #333;
-            margin: 0;
-            padding: 20px;
-        }
-        header {
-            text-align: center;
-            padding: 20px;
-            background-color: #4CAF50;
-            color: white;
-        }
-        img {
-            max-width: 100%;
-            height: auto;
-            border-radius: 10px;
-        }
-        section {
-            margin: 20px 0;
-            padding: 20px;
-            background: white;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-        }
-        h2 {
-            color: #4CAF50;
-        }
-        footer {
-            text-align: center;
-            padding: 10px;
-            background-color: #4CAF50;
-            color: white;
-            position: relative;
-            bottom: 0;
-            width: 100%;
-        }
-        .contact-info {
-            margin-top: 20px;
-        }
-    </style>
+   
 </head>
 <body>
 
