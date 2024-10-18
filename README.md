@@ -4,12 +4,7 @@ we love to play popular and country music for others and we do this for free.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-   <div style=”background-color: magenta;”>
-</head>
-<body>
-<center>
+    <center>
         <h2 style="background-color: gray;">
             Heading with Gray Background color
         </h2>
@@ -28,6 +23,12 @@ we love to play popular and country music for others and we do this for free.
         </p>
         
     </center>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <div style=”background-color: magenta;”>
+</head>
+<body>
+
 <header>
     <h1>The Moore Creek Pluckers</h1>
     <p>Bringing you the best of 60s, 70s, 80s hits and Country music!</p>
