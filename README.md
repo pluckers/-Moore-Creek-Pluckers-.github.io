@@ -4,26 +4,7 @@ we love to play popular and country music for others and we do this for free.
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <center>
-        <h2 style="background-color: gray;">
-            Heading with Gray Background color
-        </h2>
-
-        <div style="border: 2px solid skyblue;">
-            Div with Skyblue Border color
-        </div>
-        <span >
-            <a href="#" style="color: #ff6347;">
-                Link has a tomato color
-            </a>
-        </span>
-
-        <p style="color: darkgreen;">
-            Paragraph with Dark Green Text color
-        </p>
-        
-    </center>
-    <meta charset="UTF-8">
+   <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
    <div style=”background-color: magenta;”>
 </head>
