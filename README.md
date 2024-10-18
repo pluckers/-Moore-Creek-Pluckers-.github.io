@@ -9,7 +9,8 @@ we love to play popular and country music for others and we do this for free.
    
 </head>
 <body>
-
+<div style=”background-color: magenta;”>
+Div with magenta background
 <header>
     <h1>The Moore Creek Pluckers</h1>
     <p>Bringing you the best of 60s, 70s, 80s hits and Country music!</p>
